@@ -7,3 +7,7 @@ Write-Host "Hier die Wettervorhersage für $Stadt für die nächsten Tage"
 
 $Preload
  $Wetterabfrage
+
+
+
+Bene
